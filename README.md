@@ -16,9 +16,7 @@
 
 <a href="https://discord.com">
     <img align="center" src="https://img.shields.io/badge/Discord%20-%20piras314-blue"/>
-</a>
--
-<a href="https://stackoverflow.com/users/16309487/piras314">
+</a> - <a href="https://stackoverflow.com/users/16309487/piras314">
     <img align="center" src="https://img.shields.io/badge/-Stackoverflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white">
 </a>
 
