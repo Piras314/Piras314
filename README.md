@@ -4,7 +4,10 @@
 
 # Projects
 
-## [Goob Station](https://github.com/Piras314/Piras314)
+No big projects currently!
+
+## Former
+### [Goob Station](https://github.com/Piras314/Piras314)
 
 ![](https://raw.githubusercontent.com/Goob-Station/Goob-Station/refs/heads/master/Resources/Textures/Logo/logo.svg)
 
